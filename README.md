@@ -1,7 +1,5 @@
 # 🗄️ Python + SQL Lab Exercise 9
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📌 Project Overview
 This lab exercise demonstrates the integration of **Python and SQLite** to manage a relational database. It covers the end-to-end process of setting up a database, designing a schema, populating it with sample data, and executing complex SQL queries directly from a Jupyter Notebook.
