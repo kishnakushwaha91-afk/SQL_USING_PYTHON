@@ -20,14 +20,16 @@ The workflow includes:
 | **Data Entry** ⌨️ | Insert multiple records efficiently into the database. |
 | **Querying** � | Perform `SELECT`, `WHERE`, `JOIN`, and `GROUP BY` operations. |
 | **Analysis** � | Answer specific business questions (e.g., "Find high-value clients"). |
+| **Querying**  | Perform `SELECT`, `WHERE`, `JOIN`, and `GROUP BY` operations. |
+| **Analysis**  | Answer specific business questions (e.g., "Find high-value clients"). |
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-├── 📄 Python_SQL_Lab_Exercise_9.ipynb   # Main Jupyter Notebook
-├── 📜 requirements.txt                  # Project dependencies
-├── 📘 README.md                         # Project documentation
-└── 🚀 BUILD_GUIDE.md                    # Setup and execution guide
+├──- **📄 LAB_EXERCISE.md**: Full lab manual with table schemas and questions (Start Here).
+- **📘 Python_SQL_Lab_Exercise_9.ipynb**: Jupyter Notebook with implemented solution.
+- **🏗️ BUILD_GUIDE.md**: Instruction to setup and run the project.
+- **📄 requirements.txt**: Project dependencies.
 ```
